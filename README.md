@@ -18,9 +18,13 @@ and then all the list of Participants
 
 eg :
 Python-3 ---------------------------------------------- This is the Workshop title
+
 September 15' 2017 ------------------------------------ This is Workshop date
+
 Assam University Silchar ------------------------------ This is Workshop Venue
+
 Joinal Ahmed------------------------------------------- List of Participants Starts
+
 Suraj Soni
 Aayush Sonkar
 Anurag kushwaha
