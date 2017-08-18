@@ -34,6 +34,11 @@ Anurag kushwaha
 Amit Rajput
 
 
+The Basic templete for the certificate is :
+![ScreenShot](https://github.com/joinalahmed/pycertmaker/blob/master/templete.png)
+The script generates the certificate as below :
+![ScreenShot](https://github.com/joinalahmed/pycertmaker/blob/master/edit.png)
+
 
 
 
